@@ -1,8 +1,7 @@
 # created by virtualenv automatically
 api
-bot.py
 test.txt
 test.py
-PdfSetting.py
 input.txt
 output.pdf
+files/
